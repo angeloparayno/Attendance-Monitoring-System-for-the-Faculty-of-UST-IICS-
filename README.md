@@ -3,6 +3,7 @@
 Managed a team of 4 on a process re-engineering project for the attendance system that accommodates 30+ faculty members, cutting down paper work by 75% and diminishing record manipulation by 90%
 
 ---
+## Repository Contents
 * Project Documentation Includes:
   * Software Project Management Plan(SPMP)
   * Software Requirements Specifications (SRS)
