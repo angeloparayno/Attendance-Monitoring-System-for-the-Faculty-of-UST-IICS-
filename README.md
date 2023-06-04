@@ -3,12 +3,12 @@
 Managed a team of 4 on a process re-engineering project for the attendance system that accommodates 30+ faculty members, cutting down paper work by 75% and diminishing record manipulation by 90%
 
 ---
-### Repository Contents
-* [Software Engineering Project Documentation](https://github.com/angeloparayno/Attendance-Monitoring-System-for-the-Faculty-of-UST-IICS/blob/main/Attendance-Monitoring-System-Documentation-Paper.pdf) Includes:
-  * Software Project Management Plan(SPMP)
+## Repository Contents
+* [Software Engineering Project Documentation](Attendance-Monitoring-System-Documentation-Paper.pdf) Includes:
+  * Software Project Management Plan (SPMP)
   * Software Requirements Specifications (SRS)
   * Software Design Description (SDD)
   * Software Test Decumentation (STD)
-* Slide Presentation
+* [Slide Presentation](Software-Engineering-Defense-Slide-Presentation.pdf)
 ---
 Work in progress...
